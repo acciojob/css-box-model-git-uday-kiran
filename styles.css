@@ -1,7 +1,7 @@
-div {
+#box {
     width: 300px;
     background-color: lightblue;
-    border-radius: 15px solid blue;
+    border: 15px solid rgb(0, 0, 255);
     padding: 50px;
     margin: 20px;
 }
